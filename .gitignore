@@ -1,0 +1,10 @@
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+# 测试残留
+test_work/
+test_notes/
+*.part

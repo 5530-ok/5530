@@ -1,0 +1,5 @@
+# dsh-video-notes 插件挂载层：在 desktop profile 树中插入本插件实例
+- insert:
+    - id: video-notes
+      name: dsh-video-notes
+      config: {}
